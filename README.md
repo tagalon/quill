@@ -30,7 +30,7 @@ To get started with this project, run
   git clone https://github.com/tagalon/chatdoc.git
 ```
 ## Acknowledgements
-- [Josh Tried Coding] (https://link.github.com/joschan21/quill) for mentorship and reference code
+- [Josh Tried Coding](https://link.github.com/joschan21/quill) for mentorship and reference code
 - [Kinde Auth](https://link.joshtriedcoding.com/kinde) for making this project possible
 
 ## License
